@@ -1,5 +1,9 @@
 # Project Title: 🚴 Bike Acquisition Trends by Socio-Demographic Segments
 
+## Final Dashboard:
+![image](https://github.com/prayagpadwal/Bike-Sales-Trends-by-Socio-Demographic-Segments/assets/65147413/921ff6e2-fef2-4462-854b-6b2999944f98)
+
+
 ## Project Overview
 This repository contains an in-depth analysis of bicycle purchasing behavior across various socio-demographic segments. The aim is to unveil the correlation between bike purchases 🛒 and factors such as income 💰, age 👵👶, and commuting distance 🏘️➡️🏢.
 

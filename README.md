@@ -1,8 +1,7 @@
 # 🚴 Bike Acquisition Trends by Socio-Demographic Segments
 
 ## Final Dashboard:
-![image](https://github.com/prayagpadwal/Bike-Sales-Trends-by-Socio-Demographic-Segments/assets/65147413/c6288144-1ed5-4d69-a42a-a3e50454f1e0)
-
+![image](https://github.com/prayagpadwal/Bike-Sales-Trends-by-Socio-Demographic-Segments/assets/65147413/beb8f976-59dd-44a8-879e-ddaea1814286)
 
 
 ## Project Overview
